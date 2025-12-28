@@ -3,7 +3,7 @@
 도메인 지식(기상·국방·물류)과 소프트웨어 기술을 결합해 **의사결정을 돕는 서비스**를 만드는 데 관심이 있습니다.  
 Java/Spring 기반의 안정적인 백엔드 아키텍처와 비즈니스 로직 구현에 집중하고 있습니다.
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSantiago-kwp&count_bg=%232B2B2B&title_bg=%234A6FA5&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSantiago-kwp%2FSantiago-kwp&count_bg=%232B2B2B&title_bg=%234A6FA5&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)
 
 ## 배지
 
@@ -19,8 +19,8 @@ Java/Spring 기반의 안정적인 백엔드 아키텍처와 비즈니스 로직
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Santiago-kwp&show_icons=true&hide_title=true&hide_rank=false&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago-kwp&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Santiago-kwp&show_icons=true&hide_title=true&hide_rank=false&theme=graywhite&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago-kwp&layout=compact&theme=graywhite&hide_border=true&langs_count=6)
 
 ## 핵심 역량
 
