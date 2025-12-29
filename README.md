@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=4a6fa5&height=180&section=header&text=Santiago-kwp&fontColor=ffffff&fontSize=48&desc=Backend%20Developer&descSize=18&descAlignY=70)
 
-# 박기웅 | 신입 백엔드 개발자
+# 박기웅
 
 도메인 지식(기상·국방·물류)과 소프트웨어 기술을 결합해 **의사결정을 돕는 서비스**를 만드는 데 관심이 있습니다.  
 Java/Spring 기반의 안정적인 백엔드 아키텍처와 비즈니스 로직 구현에 집중하고 있습니다.
@@ -17,10 +17,6 @@ Java/Spring 기반의 안정적인 백엔드 아키텍처와 비즈니스 로직
 ![Docker](https://img.shields.io/badge/Docker-2b4c7e?style=for-the-badge&logo=docker&logoColor=ffffff)
 ![AWS](https://img.shields.io/badge/AWS-6b4f1d?style=for-the-badge&logo=amazonwebservices&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/Git-3c3c3c?style=for-the-badge&logo=git&logoColor=ffffff)
-
-## 활동 지표
-
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=itsantiago)](https://solved.ac/profile/itsantiago)
 
 ## GitHub Stats
 
@@ -57,7 +53,6 @@ Java/Spring 기반의 안정적인 백엔드 아키텍처와 비즈니스 로직
 - **기술 스택**: Spring Boot 3, JPA, MySQL, Vue 3, Pinia, Vite
 - **Repo**: https://github.com/Santiago-kwp/springBootStudy/tree/main/myGallery
 
-## 연락처
+## Solved.ac
 
-- Email: pgw10243@gmail.com
-- GitHub: https://github.com/Santiago-kwp
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=itsantiago)](https://solved.ac/profile/itsantiago)
