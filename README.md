@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=4a6fa5&height=180&section=header&text=Santiago-kwp&fontColor=ffffff&fontSize=48&desc=Backend%20Developer&descSize=18&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=4a6fa5&height=180&section=header&text=박기웅&fontColor=ffffff&fontSize=48&desc=%20Developer&descSize=18&descAlignY=70)
 
-# 박기웅
+# 소개
 
 도메인 지식(기상·국방·물류)과 소프트웨어 기술을 결합해 **의사결정을 돕는 서비스**를 만드는 데 관심이 있습니다.  
 Java/Spring 기반의 안정적인 백엔드 아키텍처와 비즈니스 로직 구현에 집중하고 있습니다.
