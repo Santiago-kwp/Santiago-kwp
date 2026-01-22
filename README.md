@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=4a6fa5&height=180&section=header&text=박기웅&fontColor=ffffff&fontSize=48&desc=%20Developer&descSize=18&descAlignY=70)
 
 도메인 지식(기상·국방·물류)과 소프트웨어 기술을 결합해 **의사결정을 돕는 서비스**를 만드는 데 관심이 있습니다.  
-Java/Spring 기반의 안정적인 백엔드 아키텍처와 비즈니스 로직 구현에 집중하고 있습니다.
+Java/Spring 기반의 안정적인 백엔드 아키텍처와 비즈니스 로직 구현, 쿼리 최적화, 동시성 제어, 모니터링 툴 활용을 통한 서버 관리 경험이 있으며 현재는 AI 서비스의 품질 검증에 집중하고 있습니다.
 
 ## 기술 스택
 
@@ -26,6 +26,8 @@ Java/Spring 기반의 안정적인 백엔드 아키텍처와 비즈니스 로직
 - Java, Spring MVC/Boot 기반 REST API 개발
 - MySQL + JPA/MyBatis 기반 데이터 설계 및 쿼리 최적화
 - 협업 중심의 개발 프로세스(문서화, 리뷰, Git-Flow)
+- Redis 기반 동시성 처리
+- APM 연동 및 부하 테스트
 
 ## 프로젝트
 
@@ -37,19 +39,12 @@ Java/Spring 기반의 안정적인 백엔드 아키텍처와 비즈니스 로직
 - **Repo**: https://github.com/SSG9-1-meow-meow/Meow-coffee
 - **상세 포트폴리오**: https://www.notion.so/WMS-2b4a84820e1380809270f19ed6dcdafb
 
-### 🍱 LunchGO | 팀 점심 예약/추천 서비스 (진행 중)
+### 🍱 LunchGO | 직장인 점심 예약/추천 서비스 (KDT 신세계 I&C 백앤드 과정 최우수팀)
 
-- **역할**: 팀장, 추천 알고리즘/리뷰 모듈, 결제, 대시보드, 일정 관리
-- **핵심 구현**: 추천(트렌딩·구내식당 대체), 결제(PortOne·웹훅), 리뷰(블라인드 처리·CRUD), Redis 비동기 집계
-- **기술 스택**: Spring Boot, MySQL, Redis, Vue 3, Tailwind, Docker
+- **역할**: 팀장, 추천 알고리즘/리뷰 모듈, 결제, 동시성 제어, AI 인사이트, 서버 아키텍처 설계 및 APM 연동 및 모니터링, 부하테스트, 일정 관리
+- **핵심 구현**: 추천(트렌딩·구내식당 대체), 결제(PortOne·웹훅), 리뷰(블라인드 처리·CRUD), Redis 비동기 집계, 동시성 제어, 로그인 부하테스트
+- **기술 스택**: Spring Boot, MySQL, Redis, JPA, Mybatis, Vue 3, Tailwind, Docker, Scouter, Prometheus, Grafana, K6
 - **Repo**: https://github.com/SSG9-FINAL-LunchGO/LunchGO
-
-### 🖼️ MyGallery | 개인 갤러리 서비스 (진행 중)
-
-- **역할**: 개인 프로젝트, 기획·백엔드·프론트 전반
-- **핵심 구현**: 인증(JWT·Spring Security), 상품/장바구니/주문 API, Vue3 기반 SPA, 배포(AWS·Naver Cloud)
-- **기술 스택**: Spring Boot 3, JPA, MySQL, Vue 3, Pinia, Vite
-- **Repo**: https://github.com/Santiago-kwp/springBootStudy/tree/main/myGallery
 
 ## Solved.ac
 
