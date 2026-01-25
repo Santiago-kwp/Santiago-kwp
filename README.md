@@ -16,6 +16,7 @@ Java/Spring 기반의 안정적인 백엔드 아키텍처와 비즈니스 로직
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Santiago-kwp&theme=default)
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Santiago-kwp&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Santiago-kwp&theme=default)
 
 ## 핵심 역량
 
