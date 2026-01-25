@@ -1,20 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=4a6fa5&height=180&section=header&text=박기웅&fontColor=ffffff&fontSize=48&desc=%20Developer&descSize=18&descAlignY=70)
 
-도메인 지식(기상·국방·물류)과 소프트웨어 기술을 결합해 **의사결정을 돕는 서비스**를 만드는 데 관심이 있습니다.  
-Java/Spring 기반의 안정적인 백엔드 아키텍처와 비즈니스 로직 구현, 쿼리 최적화, 동시성 제어, 모니터링 툴 활용을 통한 서버 관리 경험이 있으며 현재는 AI 서비스의 품질 검증에 집중하고 있습니다.
+도메인 지식(기상·국방·물류 등)과 소프트웨어 기술을 결합해 **의사결정을 돕는 서비스**를 만드는 데 관심이 있습니다.  
+Java/Spring 기반의 안정적인 백엔드 아키텍처와 비즈니스 로직 구현, DB 쿼리 최적화, 동시성 제어, APM 모니터링 툴 활용을 통한 서버 관리 및 부하 테스트 경험이 있으며 현재는 AI 서비스를 구현하며, AI의 품질 검증 방법에 대해 집중하고 있습니다.
 
 ## 기술 스택
 
-![Java](https://img.shields.io/badge/Java-2f3e46?style=for-the-badge&logo=openjdk&logoColor=ffffff)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4f772d?style=for-the-badge&logo=springboot&logoColor=ffffff)
-![JPA](https://img.shields.io/badge/JPA-2c3e50?style=for-the-badge&logo=hibernate&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/MySQL-1d3557?style=for-the-badge&logo=mysql&logoColor=ffffff)
-![Redis](https://img.shields.io/badge/Redis-8d2b2b?style=for-the-badge&logo=redis&logoColor=ffffff)
-![Vue.js](https://img.shields.io/badge/Vue.js-2d6a4f?style=for-the-badge&logo=vuedotjs&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-4a4e69?style=for-the-badge&logo=javascript&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/Docker-2b4c7e?style=for-the-badge&logo=docker&logoColor=ffffff)
-![AWS](https://img.shields.io/badge/AWS-6b4f1d?style=for-the-badge&logo=amazonwebservices&logoColor=ffffff)
-![Git](https://img.shields.io/badge/Git-3c3c3c?style=for-the-badge&logo=git&logoColor=ffffff)
+| Category      | Technologies                              | Proficiency      |
+| :------------ | :---------------------------------------- | :--------------- |
+| **Backend**   | Java, Spring Boot, JPA, MySQL, Redis      | Advanced         |
+| **Frontend**  | Vue.js, JavaScript                        | Intermediate     |
+| **DevOps**    | Docker, AWS, Scouter, Prometheus, Grafana | Intermediate     |
+| **Version Control** | Git                                       | Proficient       |
 
 ## GitHub Stats
 
@@ -42,7 +38,7 @@ Java/Spring 기반의 안정적인 백엔드 아키텍처와 비즈니스 로직
 ### 🍱 LunchGO | 직장인 점심 예약/추천 서비스 (KDT 신세계 I&C 백앤드 과정 최우수팀)
 
 - **역할**: 팀장, 추천 알고리즘/리뷰 모듈, 결제, 동시성 제어, AI 인사이트, 서버 아키텍처 설계 및 APM 연동 및 모니터링, 부하테스트, 일정 관리
-- **핵심 구현**: 추천(트렌딩·구내식당 대체), 결제(PortOne·웹훅), 리뷰(블라인드 처리·CRUD), Redis 비동기 집계, 동시성 제어, 로그인 부하테스트
+- **핵심 구현**: 추천(트렌딩·구내식당 대체 - OCR 연동), 결제(PortOne·웹훅), 리뷰(블라인드 처리·금칙어·쿼리 최적화·CRUD), Redis 비동기 집계, 예약 생성 동시성 제어, 로그인 부하테스트
 - **기술 스택**: Spring Boot, MySQL, Redis, JPA, Mybatis, Vue 3, Tailwind, Docker, Scouter, Prometheus, Grafana, K6
 - **Repo**: https://github.com/SSG9-FINAL-LunchGO/LunchGO
 
