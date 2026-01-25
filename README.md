@@ -5,12 +5,12 @@ Java/Spring 기반의 안정적인 백엔드 아키텍처와 비즈니스 로직
 
 ## 기술 스택
 
-| Category      | Technologies                              | Proficiency      |
-| :------------ | :---------------------------------------- | :--------------- |
-| **Backend**   | Java, Spring Boot, JPA, MySQL, Redis      | Advanced         |
-| **Frontend**  | Vue.js, JavaScript                        | Intermediate     |
-| **DevOps**    | Docker, AWS, Scouter, Prometheus, Grafana | Intermediate     |
-| **Version Control** | Git                                       | Proficient       |
+| Category          | Technologies                                                                                                                                                                                                                                                                                                                                                           | Proficiency                                                              |
+| :---------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------- |
+| **Backend**       | ![Java](https://img.shields.io/badge/Java-2f3e46?style=flat-square&logo=openjdk&logoColor=ffffff) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4f772d?style=flat-square&logo=springboot&logoColor=ffffff) ![JPA](https://img.shields.io/badge/JPA-2c3e50?style=flat-square&logo=hibernate&logoColor=ffffff) ![MySQL](https://img.shields.io/badge/MySQL-1d3557?style=flat-square&logo=mysql&logoColor=ffffff) ![Redis](https://img.shields.io/badge/Redis-8d2b2b?style=flat-square&logo=redis&logoColor=ffffff)             | ![Advanced](https://img.shields.io/badge/Advanced-28a745?style=flat-square)     |
+| **Frontend**      | ![Vue.js](https://img.shields.io/badge/Vue.js-2d6a4f?style=flat-square&logo=vuedotjs&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/JavaScript-4a4e69?style=flat-square&logo=javascript&logoColor=ffffff)                                                                                                                                                                   | ![Intermediate](https://img.shields.io/badge/Intermediate-007bff?style=flat-square) |
+| **DevOps**        | ![Docker](https://img.shields.io/badge/Docker-2b4c7e?style=flat-square&logo=docker&logoColor=ffffff) ![AWS](https://img.shields.io/badge/AWS-6b4f1d?style=flat-square&logo=amazonwebservices&logoColor=ffffff) ![Scouter](https://img.shields.io/badge/Scouter-0085ca?style=flat-square&logo=scouter&logoColor=ffffff) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) | ![Intermediate](https://img.shields.io/badge/Intermediate-007bff?style=flat-square) |
+| **Version Control** | ![Git](https://img.shields.io/badge/Git-3c3c3c?style=flat-square&logo=git&logoColor=ffffff)                                                                                                                                                                                                                                                                                                | ![Proficient](https://img.shields.io/badge/Proficient-17a2b8?style=flat-square)   |
 
 ## GitHub Stats
 
