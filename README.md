@@ -24,11 +24,11 @@ Java/Spring 기반의 안정적인 백엔드 아키텍처와 비즈니스 로직
 
 <div align="center">
 
-|         Focus Area          | Description                      |
-| :-------------------------: | :------------------------------- |
-| 🤖 **AI Quality Assurance** | AI 서비스 품질 검증 방법론 연구  |
-|    📊 **LLM Evaluation**    | LLM 평가 메트릭 및 테스트 자동화 |
-|        🔧 **MLOps**         | AI 모델 배포 및 운영 파이프라인  |
+|         Focus Area          | Description                     |
+| :-------------------------: | :------------------------------ |
+| 🤖 **AI Quality Assurance** | AI 서비스 품질 검증 방법론 연구 |
+|         📊 **DBA**          | 쿼리 최적화                     |
+|        🔧 **DevOps**        | 쿠버네티스 및 MSA               |
 
 </div>
 
