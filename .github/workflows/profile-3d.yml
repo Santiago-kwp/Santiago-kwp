@@ -1,18 +1,23 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 매일 JST 기준 오전 9시에 실행 (UTC 00:00)
-    - cron: "0 0 * * *"
-  workflow_dispatch: # 수동 실행도 가능하도록 설정
+  schedule:
+    - cron: "0 0 * * *" # Runs at 00:00 UTC daily
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    # =================================================== #
+    # 👇 이 permissions 블록을 추가하여 쓰기 권한을 부여합니다.
+    permissions:
+      contents: write
+    # =================================================== #
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@main
-        env: # 'with:' 대신 'env:'를 사용하도록 수정
+        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
