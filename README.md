@@ -56,7 +56,7 @@
 
 <div align="center">
 
-[![My 3D Contributions](https://github-profile-3d-contrib.vercel.app/api?username=Santiago-kwp&theme=dark&custom_color=4a6fa5)](https://github.com/Yos-IO/github-profile-3d-contrib)
+<img src="profile-3d-contrib/profile-season-animate.svg" alt="My 3D Contributions">
 
 </div>
 
