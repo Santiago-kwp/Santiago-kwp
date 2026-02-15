@@ -2,14 +2,16 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A6FA5&center=true&vCenter=true&width=500&lines=Backend+Developer;Java+%2F+Spring+Specialist;AI+Service+Developer;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A6FA5&center=true&vCenter=true&width=500&lines=Backend+Developer;Vision+AI+Developer;Data+Service+Engineer;Problem+Solver)](https://git.io/typing-svg)
 
 </div>
 
 ## 👋 About Me
 
-도메인 지식(기상·국방·물류 등)과 소프트웨어 기술을 결합해 **의사결정을 돕는 서비스**를 만드는 데 관심이 있습니다.
-Java/Spring 기반의 안정적인 백엔드 아키텍처와 비즈니스 로직 구현, DB 쿼리 최적화, 동시성 제어, APM 모니터링 툴 활용을 통한 서버 관리 및 부하 테스트 경험이 있으며 현재는 AI 서비스를 구현하며, AI의 품질 검증 방법에 대해 집중하고 있습니다.
+도메인 지식과 소프트웨어 기술을 결합해 **의사결정을 돕는 서비스**를 만드는 데 관심이 있습니다.
+현재는 CCTV 영상 기반 하천 유속·유량 분석 솔루션을 제공하는 **하이드로셈**에서, **Python**과 **OpenCV**를 활용한 컴퓨터 비전 기술을 연구하고, 측정된 데이터를 안정적으로 처리하고 제공하기 위한 시스템을 개발하고 있습니다.
+
+이 과정에서 **Kotlin**을 이용한 서비스 개발, **PostgreSQL** 기반의 데이터 관리 등 새로운 기술 스택을 적극적으로 학습하며 전문성을 확장하고 있습니다.
 
 <div align="center">
 
@@ -24,11 +26,14 @@ Java/Spring 기반의 안정적인 백엔드 아키텍처와 비즈니스 로직
 
 <div align="center">
 
-|         Focus Area          | Description                     |
-| :-------------------------: | :------------------------------ |
-| 🤖 **AI Quality Assurance** | AI 서비스 품질 검증 방법론 연구 |
-|         📊 **DBA**          | 쿼리 최적화                     |
-|        🔧 **DevOps**        | 쿠버네티스 및 MSA               |
+|         Focus Area          | Description                                              |
+| :-------------------------: | :------------------------------------------------------- |
+|   👁️ **Computer Vision**    | OpenCV, Python을 활용한 CCTV 영상 분석 및 객체 추적 기술 |
+|   📊 **Data Engineering**   | PostgreSQL 기반 데이터 모델링 및 대용량 데이터 처리      |
+|   📱 **App Development**    | Kotlin을 활용한 안드로이드 서비스 앱 개발                |
+| 🤖 **AI Quality Assurance** | AI 서비스 품질 검증 방법론 연구                          |
+|         📊 **DBA**          | 쿼리 최적화                                              |
+|        🔧 **DevOps**        | 쿠버네티스 및 MSA                                        |
 
 </div>
 
@@ -36,16 +41,24 @@ Java/Spring 기반의 안정적인 백엔드 아키텍처와 비즈니스 로직
 
 ## 🛠 Tech Stack
 
-| Category            | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Proficiency                                                                         |
-| :------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------- |
-| **Backend**         | ![Java](https://img.shields.io/badge/Java-2f3e46?style=flat-square&logo=openjdk&logoColor=ffffff) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4f772d?style=flat-square&logo=springboot&logoColor=ffffff) ![JPA](https://img.shields.io/badge/JPA-2c3e50?style=flat-square&logo=hibernate&logoColor=ffffff) ![MySQL](https://img.shields.io/badge/MySQL-1d3557?style=flat-square&logo=mysql&logoColor=ffffff) ![Redis](https://img.shields.io/badge/Redis-8d2b2b?style=flat-square&logo=redis&logoColor=ffffff)                  | ![Advanced](https://img.shields.io/badge/Advanced-28a745?style=flat-square)         |
-| **Frontend**        | ![Vue.js](https://img.shields.io/badge/Vue.js-2d6a4f?style=flat-square&logo=vuedotjs&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/JavaScript-4a4e69?style=flat-square&logo=javascript&logoColor=ffffff)                                                                                                                                                                                                                                                                                                                       | ![Intermediate](https://img.shields.io/badge/Intermediate-007bff?style=flat-square) |
-| **DevOps**          | ![Docker](https://img.shields.io/badge/Docker-2b4c7e?style=flat-square&logo=docker&logoColor=ffffff) ![AWS](https://img.shields.io/badge/AWS-6b4f1d?style=flat-square&logo=amazonwebservices&logoColor=ffffff) ![Scouter](https://img.shields.io/badge/Scouter-0085ca?style=flat-square&logo=scouter&logoColor=ffffff) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) | ![Intermediate](https://img.shields.io/badge/Intermediate-007bff?style=flat-square) |
-| **Version Control** | ![Git](https://img.shields.io/badge/Git-3c3c3c?style=flat-square&logo=git&logoColor=ffffff)                                                                                                                                                                                                                                                                                                                                                                                                                                                   | ![Proficient](https://img.shields.io/badge/Proficient-17a2b8?style=flat-square)     |
+| Category            | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Proficiency                                                                         |
+| :------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------- |
+| **Backend**         | ![Java](https://img.shields.io/badge/Java-2f3e46?style=flat-square&logo=openjdk&logoColor=ffffff) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4f772d?style=flat-square&logo=springboot&logoColor=ffffff) ![JPA](https://img.shields.io/badge/JPA-2c3e50?style=flat-square&logo=hibernate&logoColor=ffffff) ![MySQL](https://img.shields.io/badge/MySQL-1d3557?style=flat-square&logo=mysql&logoColor=ffffff) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-8d2b2b?style=flat-square&logo=redis&logoColor=ffffff) | ![Advanced](https://img.shields.io/badge/Advanced-28a745?style=flat-square)         |
+| **AI / Data**       | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                      | ![Learning](https://img.shields.io/badge/Learning-ffc107?style=flat-square)         |
+| **Frontend**        | ![Vue.js](https://img.shields.io/badge/Vue.js-2d6a4f?style=flat-square&logo=vuedotjs&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/JavaScript-4a4e69?style=flat-square&logo=javascript&logoColor=ffffff)                                                                                                                                                                                                                                                                                                                                                                                                                      | ![Intermediate](https://img.shields.io/badge/Intermediate-007bff?style=flat-square) |
+| **Mobile**          | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | ![Learning](https://img.shields.io/badge/Learning-ffc107?style=flat-square)         |
+| **DevOps**          | ![Docker](https://img.shields.io/badge/Docker-2b4c7e?style=flat-square&logo=docker&logoColor=ffffff) ![AWS](https://img.shields.io/badge/AWS-6b4f1d?style=flat-square&logo=amazonwebservices&logoColor=ffffff) ![Scouter](https://img.shields.io/badge/Scouter-0085ca?style=flat-square&logo=scouter&logoColor=ffffff) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)                                                                                                | ![Intermediate](https://img.shields.io/badge/Intermediate-007bff?style=flat-square) |
+| **Version Control** | ![Git](https://img.shields.io/badge/Git-3c3c3c?style=flat-square&logo=git&logoColor=ffffff)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | ![Proficient](https://img.shields.io/badge/Proficient-17a2b8?style=flat-square)     |
 
 ---
 
 ## 📊 GitHub Stats
+
+<div align="center">
+
+[![My 3D Contributions](https://github-profile-3d-contrib.vercel.app/api?username=Santiago-kwp&theme=dark&custom_color=4a6fa5)](https://github.com/Yos-IO/github-profile-3d-contrib)
+
+</div>
 
 <div align="center">
 
