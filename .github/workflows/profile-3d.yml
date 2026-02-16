@@ -8,11 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    # =================================================== #
-    # 👇 이 permissions 블록을 추가하여 쓰기 권한을 부여합니다.
     permissions:
       contents: write
-    # =================================================== #
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
@@ -25,4 +22,5 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Generate Contribution Calendar" && git push)
+          # 변경사항이 있을 경우에만, 원격 변경사항을 먼저 받고 푸시하도록 수정
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Generate Contribution Calendar" && git pull --rebase && git push)
