@@ -69,7 +69,6 @@
 <div align="center">
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Santiago-kwp&theme=default)
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Santiago-kwp&theme=default)
 
 </div>
 
@@ -104,13 +103,6 @@
 ---
 
 ## 🚀 Featured Projects
-
-<div align="center">
-
-[![Meow Coffee](https://github-readme-stats.vercel.app/api/pin/?username=SSG9-1-meow-meow&repo=Meow-coffee&theme=default)](https://github.com/SSG9-1-meow-meow/Meow-coffee)
-[![LunchGO](https://github-readme-stats.vercel.app/api/pin/?username=SSG9-FINAL-LunchGO&repo=LunchGO&theme=default)](https://github.com/SSG9-FINAL-LunchGO/LunchGO)
-
-</div>
 
 ### 🐾 Meow Coffee (WMS) | Spring MVC 팀 프로젝트
 
