@@ -69,18 +69,13 @@
 <div align="center">
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Santiago-kwp&theme=default)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Santiago-kwp&theme=default&utcOffset=9)
 
 </div>
 
 <div align="center">
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Santiago-kwp&theme=default)
-
-</div>
-
-<div align="center">
-
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Santiago-kwp&theme=default&utcOffset=9)
 
 </div>
 
