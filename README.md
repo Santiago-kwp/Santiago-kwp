@@ -17,7 +17,7 @@
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pgw10243@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kwpark-itsantiago/)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://itsantiago.hashnode.dev/)
+[![Blog](https://img.shields.io/badge/Blog-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://santiago-kwp.github.io/)
 </div>
 
 ---
